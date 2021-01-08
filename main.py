@@ -5,7 +5,6 @@ from data import zoom
 import webbrowser
 import keyboard
 import pynput
-import PIL
 
 keyboardd = Controller()
 
